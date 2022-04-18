@@ -95,3 +95,5 @@ GPATH
 # ignore all subdirectories of the build directory
 /build/*/*
 build-arm64
+build-x86_64
+release
